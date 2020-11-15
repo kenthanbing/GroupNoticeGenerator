@@ -1,0 +1,21 @@
+{
+    "exhibition_title": "xxx展览会",
+    "hotel": "xxx酒店",
+    "group_leader": "xxx 手机：xxxxx",
+    "time": "xxxx年xx月xx日xx:xx",
+    "place":"xxxxx",
+    "must_know":[
+        "时差：xxx时间比北京时间xxxx个小时。",
+        "建议携带物品：充电宝、剃须刀、湿纸巾、润肤膏、防晒霜、自己的洗漱用品等。",
+        "安全：xxxx",
+        "货币：xxxx",
+        "天气：xxxx",
+        "电源插座：xxxx",
+        "通讯：xxxx",
+        "其他注意事项：xxxx"
+    ],
+    "prepare_time": "布展时间：xx月xx日至xx月xx日每天xx:xx至xx:xx。",
+    "open_time": "开展时间：xx月xx日至xx月xx日每天xx:xx至xx:xx。",
+    "venue_name": "xxxx",
+    "venue_address": "xxxx"
+}
